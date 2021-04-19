@@ -3,6 +3,9 @@ if ("serviceWorker" in navigator) {
     .register("/sw.js")
     .then((reg) => {
       console.log("service Worker registered", reg);
+      window.onload = ()=>{
+        reg.update();
+      }
     })
     .catch((err) => {
       console.log("service Worker not registered", err);
