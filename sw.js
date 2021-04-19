@@ -1,4 +1,4 @@
-const staticCacheName = 'site-static-v4';//we have change the name every time we make changes in cached files
+const staticCacheName = 'site-static-v5';//we have change the name every time we make changes in cached files
 const dynamicCache = 'site-dynamic-v2';
 const cached_array = ['/index.html',
 'https://fonts.gstatic.com/s/materialicons/v83/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.woff2',
