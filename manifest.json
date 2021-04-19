@@ -1,6 +1,6 @@
 {
-    "name":"Food Mania",
-    "short_name":"FoodMania",
+    "name":"Food Recipe",
+    "short_name":"FoodRecipe",
     "start_url":"./index.html",
     "display":"standalone",
     "background_color":"#FFE902",
