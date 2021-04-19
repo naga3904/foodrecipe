@@ -57,7 +57,7 @@ const recipes = document.getElementById("recipes");
                         <div class="recipe-ingredients">${i.ingredients}</div>
                     </div>
                     <div class="recipe-delete">
-                        <button class='delete-btn' value=${i.id}><i class="material-icons" >delete_outline</i></button>
+                        <button class='delete-btn btn-small' value=${i.id}><i class="material-icons" >delete_outline</i></button>
                     </div>
                     </div>
                     `;
